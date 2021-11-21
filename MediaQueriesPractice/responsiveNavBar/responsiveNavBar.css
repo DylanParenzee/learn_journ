@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 6em;
+    text-align: center;
+}
+nav {
+    font-size: 1.5em;
+}
+
+ul,li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+/*means when the width is between 600 and 800 h1 will be purple
+@media(min-width:600px)and(max-width:800px){
+    h1{
+        color:purple;
+
+    }
+}*/
+
+
+
+
+
+
+@media(max-width:768px ){
+    h1{
+        font-size: 4em;
+    }
+    nav, nav ul{
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}
+
+@media(max-width:576px){
+    h1{
+        font-size: 3em;
+    }
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+  ul{
+      max-width: 50%;
+      flex-grow: 1;
+      display:flex;
+     justify-content: space-evenly;
+     
+  }
+
+
+      }
