@@ -4,7 +4,7 @@ New to it, practicing beginner concepts, this is my Learning Journal.
 
 I have been practicing using the "web developer bootcamp" on udemy now for about 2 weeks, ive decided to start scribbling my thoughts and learnings down in order to better keep track of my progress, better conclude and condense what ive learnt during each session, try to unpack my thoughts and hopefully destresss during the learning process. On the 6th of Febuary 2022 I will begin a 10 month part-time,software engineering bootcamp, this study is the prequel to that. My goal is to encorporate the "No Zero Days" attitude towards my studies.
 
-
+<b>sdsd</b>
 Friday 26.11.21: 
 
 Today I learned and practiced;
