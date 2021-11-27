@@ -26,7 +26,15 @@ Today I learned and practiced;
 
 These concepts were not very hard to learn and apply, I did have trouble with the array method .sort(), more practice is needed to fully understand when and where to implement.
 
+<b>Sunday 28.11.21:</b>
+Today I learned and practiced;
+- The basic concept of objects and object creation
+- acccessing data from objects
+- modifying objects 
+- nesting objects
+- pairing objects and arrays and how powerful they can be together.
 
+I enjoyed learning these concepts, its plain to see just how important objects and arrays can be in modern websites when it comes to categorizing and storing different types of data. I look forward to practicing them further.
 
 
 
