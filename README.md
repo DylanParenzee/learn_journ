@@ -13,7 +13,7 @@ Today I learned and practiced;
 - The concept of Truthy and Falsy
 - The Logical operstors && (AND), || (OR), ! (NOT)
 - Switch statements
-- 
+
 None of these concepts were very hard to grasp.
 
 
