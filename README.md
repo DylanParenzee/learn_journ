@@ -13,10 +13,19 @@ Today I learned and practiced;
 - The concept of Truthy and Falsy
 - The Logical operstors && (AND), || (OR), ! (NOT)
 - Switch statements
+- 
 None of these concepts were very hard to grasp.
 
 
 Saturday 27.11.21: 
+
+Today I learned and practiced;
+- Creating Arrays
+- Array index and manipulating arrays using idices
+- Simple Array methods including, push() pop() shift() unshift() concat() includes() indexOf() reverse() slice() and sort()
+
+These concepts were not very hard to learn and apply, I did have trouble with the array method .sort(), more practice is needed to fully understand when and where to implement.
+
 
 
 
