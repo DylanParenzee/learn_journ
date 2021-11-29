@@ -36,5 +36,15 @@ Today I learned and practiced;
 
 I enjoyed learning these concepts, its plain to see just how important objects and arrays can be in modern websites when it comes to categorizing and storing different types of data. I look forward to practicing them further.
 
+<b>Monday 29.11.21:</b>
+Today I learned and practiced;
+- For loops 
+- Looping over arrays
+- Looping over nested arrays with nested for loops
+- While loops
+- The horror of infinte loops
+
+Todays concepts where challenging, especially nested for loops, in this moment I feel like I understand the concept and implementation on a basic level, however I will be re-doing this module from the start tomorrow to make sure I retain the most important parts. I feel like looping will be an intergal part of being a developer.
+
 
 
