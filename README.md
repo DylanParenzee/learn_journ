@@ -46,5 +46,20 @@ Today I learned and practiced;
 
 Todays concepts where challenging, especially nested for-loops, in this moment I feel like I understand the concept and implementation on a basic level, however I will be re-doing this module from the start tomorrow to make sure I retain the most important parts. I feel like looping will be an intergal part of being a developer.
 
+<b>Tuesday 30.11.21:</b>
+Today I learned and practiced/repracticed;
+- For-loops 
+- Looping over arrays
+- Looping over nested arrays with nested for-loops
+- While-loops
+- The Break keyword 
+- The use of the parseInt()function for parsing user input
+
+and created a simple guessing game (not originally mine) incorporating all of these aspects. I have a fair understanding of loops, they will take much more practice nonetheless. 
+
+
+
+
+
 
 
