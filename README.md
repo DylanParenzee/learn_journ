@@ -55,14 +55,14 @@ Today I learned and practiced/repracticed;
 - The Break keyword 
 - The use of the parseInt()function for parsing user input
 
-and created a simple guessing game (not originally mine) incorporating all of these aspects. I have a fair understanding of loops, they will take much more practice nonetheless. file uploaded under/
+and created a simple guessing game (not originally mine) incorporating all of these aspects. I have a fair understanding of loops, they will take much more practice nonetheless. file uploaded under/Guessing Game
 
 <b>Wednesday 1.12.21:</b>
 Today I learned and practiced;
 - for...of looping, concept and implementation
 - for...if looping, concept and implementation
 
-and created an in browser, interactive to-do list stored in the browser console (not originally mine), this was very challenging for me at my current level but it incorporates ; user prompts, parsing of user prompts, arrays, array methods, variables, logical operators, temporal literals, if and if else statments, while loops and iteration of arrays. I could not recall all of these concepts without googling and was stuck multiple times on where and how to implement them, looking forward to practicing further until I can retain at least these basic consepts deeper and utilise more fluently. file uploaded under/toDoList.
+and created an in browser, interactive to-do list stored in the browser console (not originally mine), this was very challenging for me at my current level but it incorporates ; user prompts, parsing of user prompts, arrays, array methods, variables, logical operators, temporal literals, if and if else statments, while loops and iteration of arrays. I could not recall all of these concepts without googling and was stuck multiple times on where and how to implement them, looking forward to practicing further until I can retain at least these basic concepts deeper and utilise more fluently. file uploaded under/toDoList.
 
 
 
