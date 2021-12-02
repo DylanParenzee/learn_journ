@@ -65,7 +65,7 @@ Today I learned and practiced;
 and created an in browser, interactive to-do list stored in the browser console (not originally mine), this was very challenging for me at my current level but it incorporates ; user prompts, parsing of user prompts, arrays, array methods, variables, logical operators, temporal literals, if and if else statments, while loops and iteration of arrays. I could not recall all of these concepts without googling and was stuck multiple times on where and how to implement them, looking forward to practicing further until I can retain at least these basic concepts deeper and utilise more fluently. file uploaded under/toDoList.
 
 
-<b>thursday 2.12.21:</b>
+<b>Thursday 2.12.21:</b>
 Today I learned and practiced;
 - I re-re created the todo list code from yesterday to help further cement the concepts, having a bit of a lazy day after doing an extra long shift at work so today has been about revision of past modules and listening to the codeNewbie podcaast to help inspire me! tomorrow I am on to the functions module.
 
