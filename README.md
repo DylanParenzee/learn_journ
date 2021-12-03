@@ -67,8 +67,16 @@ and created an in browser, interactive to-do list stored in the browser console 
 
 <b>Thursday 2.12.21:</b>
 Today I learned and practiced;
-- I re-created the todo list code from yesterday to help further cement the concepts, having a bit of a lazy day after doing an extra long shift at work so today has been about revision of past modules and listening to the codeNewbie podcaast to help inspire me! tomorrow I am on to the functions module.
+- I re-created the todo list code from yesterday to help further cement the concepts, having a bit of a low Motivation day after doing an extra long shift at work so today has been about revision of past modules and listening to the codeNewbie podcaast to help inspire me! tomorrow I am on to the functions module.
 
+<b>Friday 3.12.21:</b> 
+Today I learned and prracticed;
+- functions and their purpose
+- function parameters 
+- function arguments
+- multi parameter/multi argument functions and returns
+- The return keyword. 
 
+Functions seem to be excepctionally common in writing code, the concept is not too hard to grasp although I can see how in depth they can be. Super useful, definetly one of the things to understand with solid depth and confidence.
 
 
