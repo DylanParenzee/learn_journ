@@ -46,7 +46,25 @@ function isShortsWeather(temp){
    return word[0].toUpperCase() + word.slice([1]);
         }
  
+//function must return the last element in an array without removing the element. If array is empty return null
 
+ function lastElement(num){
+  if(num.length === 0){
+    return null
+  } else {
+    let x = (num.slice(-1).pop())
+    return x 
+  }
+}
+
+// Function must return the sum of all elements in an array
+let total = 0
+function sumArray(sum) {
+  for (let i = 0; i < sum.length; i += 1) {
+    total += sum[i]
+  }
+  return total
+}
 
 
  
