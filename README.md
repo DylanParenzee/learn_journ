@@ -88,8 +88,22 @@ Today I learned and continued practicing functions, I practiced using Udemy's fu
 Today I learned and practiced;
 - Function Scope 
 - The difference between block and lexical scope
-- how to apply nesting within funtions in order to give all parts of the function acesss to one another through lexical scope. 
+- how to apply nesting within funtions in order to give all child decendats of the function acesss to parent elements through lexical scope. 
 
 Lots more left in this module, the scope concept was not too hard to grasp.
+
+<b>Monday 6.12.21:</b>
+Today I learned and practiced;
+- Function expressions, saving functions into variables
+- Higher order functions, functions that operate on/with other functions
+- Creating and defining methods
+
+Learned and practiced all the above, lots to take in, I can see just how in depth and layered functions can be, defining my own methods is a skill I feel will really come in handy in the future 
+
+
+
+
+
+
 
 
