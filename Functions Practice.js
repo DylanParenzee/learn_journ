@@ -66,5 +66,32 @@ function sumArray(sum) {
   return total
 }
 
+//practice with defining methods
+
+const myMath = {
+    Pi: 3.14,
+    square: function (num) {
+        return num * num
+    },
+    cube(num) {
+        return num ** 3
+    }
+
+
+
+
+}
+
+const square = {
+    area(side) {
+        return side ** 2;
+    },
+    perimeter(side) {
+        return side * 4;
+    }
+
+
+
+};
 
  
