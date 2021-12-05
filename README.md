@@ -84,3 +84,12 @@ Functions seem to be excepctionally common in writing code, the concept is not t
 Today I learned and continued practicing functions, I practiced using Udemy's fuction practice exercises, having a little trouble with getting the syntax spot on first time when saving loops or if/else statements to functions. I find myself not trusting myself to have properly understood but figuring out the error is just a misspelled declaration or braces/parenthesis missing. Learning to trust myself, lots of practice coming up.
 
 
+<b>Sunday 5.12.21:</b>
+Today I learned and practiced;
+- Function Scope 
+- The difference between block and lexical scope
+- how to apply nesting within funtions in order to give all parts of the function acesss to one another through lexical scope. 
+
+Lots more left in this module, the scope concept was not too hard to grasp.
+
+
