@@ -88,7 +88,7 @@ Today I learned and continued practicing functions, I practiced using Udemy's fu
 Today I learned and practiced;
 - Function Scope 
 - The difference between block and lexical scope
-- how to apply nesting within funtions in order to give all child decendats of the function acesss to parent elements through lexical scope. 
+- how to apply nesting within funtions in order to give all child decendants of the function acesss to parent elements through lexical scope. 
 
 Lots more left in this module, the scope concept was not too hard to grasp.
 
@@ -99,6 +99,19 @@ Today I learned and practiced;
 - Creating and defining methods
 
 Learned and practiced all the above, lots to take in, I can see just how in depth and layered functions can be, defining my own methods is a skill I feel will really come in handy in the future 
+
+<b>Tuesday 7.12.21:</b>
+Today I learned and practiced;
+- revison of previous day
+- defining methods exercise (udemy) 
+- utilizing the keyword (this)
+- coding exercise (laying eggs) udemy 
+- The Try/Catch procedure 
+
+Had a good morning, revised the past day's learnings (might start all sessios this way) passed all exercises without too much of a struggle and moving on to the next module tomorrow, Callbacks and Array methods. 
+
+
+
 
 
 
