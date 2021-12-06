@@ -76,10 +76,6 @@ const myMath = {
     cube(num) {
         return num ** 3
     }
-
-
-
-
 }
 
 const square = {
@@ -89,9 +85,18 @@ const square = {
     perimeter(side) {
         return side * 4;
     }
-
-
-
 };
 
+
+// function method to practice with the keyword "this"
  
+const hen = {
+    name: "Helen",
+    eggCount: 0,
+    layAnEgg: function () {
+        this.eggCount += 1
+        return `EGG`
+        
+    }
+}
+
