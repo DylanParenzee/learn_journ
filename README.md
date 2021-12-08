@@ -120,6 +120,17 @@ Today I learned and practiced;
 
 Revised pervious days learnings, had fun learning some new methods and figuring out how to further compact written code using arrow functions and explict returns, the new syntax will take some practice but definetly saves time and leaves the code looking much neater. 
 
+<b>Thursday 9.12.21:</b>
+Today I learned and practiced;
+- revision of previous day
+- The filter method
+- some/every methods
+- Reduce method 
+
+It has been a shorter study session today, as I have to go into work early. Revised and praciticed with arrow functions and the map/forEach methods again, then learned how to implement the filter/some/every and reduce methods. There are a large number of implementaions for array callbacks, knowing which one to implement is what im trying to practice as the syntax between them seems pretty similar.
+
+
+
 
 
 
