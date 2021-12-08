@@ -108,7 +108,19 @@ Today I learned and practiced;
 - coding exercise (laying eggs) udemy 
 - The Try/Catch procedure 
 
-Had a good morning, revised the past day's learnings (might start all sessios this way) passed all exercises without too much of a struggle and moving on to the next module tomorrow, Callbacks and Array methods. 
+Had a good morning, revised the past day's learnings (might start all sessions this way) passed all exercises without too much of a struggle and moving on to the next module tomorrow, Callbacks and Array methods. 
+
+<b>Wednesday 8.12.21:</b>
+Today I learned and practiced;
+- The forEach callback method
+- The map callback method 
+- Arrow function expressions
+- Arrow function implicit returns 
+- setTimeout and setInterval
+
+Revised pervious days learnings, had fun learning some new methods and figuring out how to further compact written code using arrow functions and explict returns, the new syntax will take some practice but definetly saves time and leaves the code looking much neater. 
+
+
 
 
 
