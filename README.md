@@ -127,7 +127,16 @@ Today I learned and practiced;
 - some/every methods
 - Reduce method 
 
-It has been a shorter study session today, as I have to go into work early. Revised and praciticed with arrow functions and the map/forEach methods again, then learned how to implement the filter/some/every and reduce methods. There are a large number of implementaions for array callbacks, knowing which one to implement is what im trying to practice as the syntax between them seems pretty similar.
+It has been a shorter study session today, as I have to go in to work early. Revised and praciticed with arrow functions and the map/forEach methods again, then learned how to implement the filter/some/every methods. There are a large number of implementaions for array callbacks, knowing which one to implement is what im trying to practice as the syntax between them seems pretty similar.
+
+<b>Friday 10.12.21</b>
+Today I learned and practiced;
+- Revised all previous exercises of the previous module 
+- Reduce method syntax and applicaiton 
+- How to utilise arrow functions with the keyword "this' 
+- How to set default params
+
+Feeling good today, didnt struggle with any of the previous exercises although I know there is much more practice to be had, moved on to the reduce method which seems really useful for array iteration, how using the keyword "this" while writing methods may change the output when used together with arrow function declaration, and also how newer javascript allows us to  easily set default parameters within parenthesisis and not in the function body anymore, although order is key for multiple parameters.
 
 
 
