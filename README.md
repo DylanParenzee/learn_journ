@@ -138,6 +138,18 @@ Today I learned and practiced;
 
 Feeling good today, didnt struggle with any of the previous exercises although I know there is much more practice to be had, moved on to the reduce method which seems really useful for array iteration, how using the keyword "this" while writing methods may change the output when used together with arrow function declaration, and also how newer javascript allows us to  easily set default parameters within parenthesisis and not in the function body anymore, although order is key for multiple parameters.
 
+<b>Saturday 11.12.21</b>
+Today I learnes and practiced; 
+- Spread in function calls
+- Spread with array literals
+- Spread with objects 
+- Rest Params
+- Destructuring Arrays 
+- Destructuring objects
+- Destructuring Params
+
+A lot to take in today with these newer Javascript features, seems its possible to work without any of these functions but they make the code alot easier to understand, read and to write. Spread and Destrucuring in particular are very useful and I plan to practice them further and try to encorporate them into my everyday coding as much as possible.
+
 
 
 
