@@ -158,6 +158,18 @@ Today I learnes and practiced;
 
 Moving on to the DOM manipulaiton and practice module, excited for the change of pace.
 
+<b>Monday 13.12.21</b>
+Today I learnes and practiced;
+- getElementsByTagName
+- getElementsByClassName
+- querySelector
+- querySelectorAll
+- innerHTML
+- innerText
+- innerContent
+
+Continued with practice of DOM manipulation today, practiced selecting singular elements using querySelector and also groups of elements using querySelectorAll and returning groups using tag names, class names and specfic attributes from the markup. Really fun to start utilising javascript to interact with the markup and style sheet. 
+
 
 
 
