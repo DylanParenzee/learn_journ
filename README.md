@@ -151,7 +151,7 @@ Today I learnes and practiced;
 A lot to take in today with these newer Javascript features, seems its possible to work without any of these functions but they make the code alot easier to understand, read and to write. Spread and Destrucuring in particular are very useful and I plan to practice them further and try to encorporate them into my everyday coding as much as possible.
 
 <b>Sunday 12.12.21</b>
-Today I learnes and practiced; 
+Today I learned and practiced; 
 - About the Document Object Model 
 - How to interact with the DOM
 - using getElementsById to grab and store objects within a variable.
@@ -159,7 +159,7 @@ Today I learnes and practiced;
 Moving on to the DOM manipulaiton and practice module, excited for the change of pace.
 
 <b>Monday 13.12.21</b>
-Today I learnes and practiced;
+Today I learned and practiced;
 - getElementsByTagName
 - getElementsByClassName
 - querySelector
