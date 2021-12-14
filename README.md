@@ -170,7 +170,14 @@ Today I learned and practiced;
 
 Continued with practice of DOM manipulation today, practiced selecting singular elements using querySelector and also groups of elements using querySelectorAll and returning groups using tag names, class names and specfic attributes from the markup. Really fun to start utilising javascript to interact with the markup and style sheet. 
 
+<b>Tuesday 14.12.21</b>
+Today I learned and practiced;
+- Revison from previous session
+- Attribute selection in the DOM 
+- Changing styles in through attribute slection in the DOM 
+- practiced using multiple Udemy exercises 
 
+Found some of the syntax for attribute selection through Javascript a bit challenging today, trying to incorporate stylings using javascript through the DOM using partial CSS syntax was slightly confusing at times, although when an approproate element is selected its all about practicing what you can do with that element. Started incorporating standard for and forOf loops to interact with the markup today, feels good to be able to put it all into practice, still not getting all the syntax right without some research... practice practice practice... and patience. 
 
 
 
