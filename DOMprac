@@ -1,0 +1,29 @@
+const container = document.getElementById("container");
+for(let i = 0; i < 100; i++){
+  
+   let button = document.createElement("button");
+        container.appendChild(button);
+        button.innerText = "Hey";
+}
+
+
+const allLi = document.querySelectorAll("li")
+ 
+for (let i of allLi) {
+     i.classList.toggle("highlight")    
+}
+ 
+for (let i = 0; i < allLi.length; i++) {
+    allLi[i].classList.toggle("highlight")
+    
+    
+    const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']; //PLEASE  const span =document.querySelectorAll('span');
+
+for(let i=0;i<span.length;i++){
+
+    span[i].style.color=colors[i];
+    
+    
+    document.querySelector('#container').style.textAlign = 'center'
+document.querySelector('img').style.width = '150px'
+document.querySelector('img').style.borderRadius = '50%'
