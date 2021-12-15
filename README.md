@@ -179,6 +179,17 @@ Today I learned and practiced;
 
 Found some of the syntax for attribute selection through Javascript a bit challenging today, trying to incorporate stylings using javascript through the DOM using partial CSS syntax was slightly confusing at times, although when an approproate element is selected its all about practicing what you can do with that element. Started incorporating standard for and forOf loops to interact with the markup today, feels good to be able to put it all into practice, still not getting all the syntax right without some research... practice practice practice... and patience. 
 
+<b>Wednesday 15.12.21</b>
+Today I learned and practiced; 
+- Revision of previous session
+- classList fuctions including add/contains/remove and toggle 
+- Traversing using parent/child/sibling slectors
+- The append/appendChild funtions 
+- Multiple Udemy exercises to practice the above, added to DOMprac file. 
+
+Practiced all the above and spent extra time doing the coding exercises, happy to have gotten to the right answers for the coding exercises without having to do any extra research today, hoping to find some beginner projects that incorporate what ive learned in these sections, wanting to make sure I retain it all. 
+
+
 
 
 
