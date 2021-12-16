@@ -191,7 +191,12 @@ Practiced all the above and spent extra time doing the coding exercises, happy t
 
 
 
+<b>Thursday 16.12.21</b>
+Today I learned and practiced; 
+- Revision of the previous session 
+- removeChild and remove 
 
+I finished a bigger coding exercise today utilizing what ive learnt so far in manipulating the DOM, uploaded file under PokemonDOM_practice. It was really fun figuring this one out and being able to utilse minor HTML,CSS and Javascript. 
 
 
 
