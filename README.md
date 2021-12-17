@@ -198,6 +198,17 @@ Today I learned and practiced;
 
 I finished a bigger coding exercise today utilizing what ive learnt so far in manipulating the DOM, uploaded file under PokemonDOM_practice. It was really fun figuring this one out and being able to utilse minor HTML,CSS and Javascript. 
 
+<b>Friday 17.12.21</b>
+Today I learned and practiced; 
+- revison of the previous sessions and exercises
+- Intro into DOM events
+- Why inline event declaration directly in the markup is bad practice
+- onClick and onDblCLick events 
+- Exercises on declaring these events. 
+
+Made it to another friday, listened to one of my favourite podcasts "Breaking into Startups" in this episode they interview Jake Schwartz, CEO of general assembly, it left me feeling inspired and really excited to start my bootcamp, less than 2 months away now...
+Moved on to the DOM events module of my course, excited to push forward, 'Events' seem to be a super important part of user interaction. 
+
 
 
 
