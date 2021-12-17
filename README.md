@@ -209,6 +209,18 @@ Today I learned and practiced;
 Made it to another friday, listened to one of my favourite podcasts "Breaking into Startups" in this episode they interview Jake Schwartz, CEO of general assembly, it left me feeling inspired and really excited to start my bootcamp, less than 2 months away now...
 Moved on to the DOM events module of my course, excited to push forward, 'Events' seem to be a super important part of user interaction. 
 
+<b>Saturday 18.12.21</b>
+Today I learned and practiced;
+- Revision of previous learnings and exercises 
+- how the onclick property works 
+- mouseover event 
+- upclick, downclick events 
+- addEventListener
+
+Continued on with DOM events today, nothing too hard to grasp and apply so far. 
+
+
+
 
 
 
