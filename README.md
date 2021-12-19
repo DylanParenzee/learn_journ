@@ -220,6 +220,10 @@ Today I learned and practiced;
 Continued on with DOM events today, nothing too hard to grasp and apply so far. 
 
 
+<b>Sunday 19.12.21</b>
+Today I created an in browser random color generator, tried this project to test myself a little. It was fun to do and fairly simple. 
+
+
 
 
 
