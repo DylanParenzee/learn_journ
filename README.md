@@ -221,7 +221,7 @@ Continued on with DOM events today, nothing too hard to grasp and apply so far.
 
 
 <b>Sunday 19.12.21</b>
-Today I created an in browser random color generator, this project is part of the Udemy course, I tried to do it without any instruction and found it fun to do and fairly simple, after creating the fucntion color generator I veiwed the source code of the Udemy instructor I found there were a few points at which I couldve written cleaner more effiecnt and less repeitive code.
+Today I created an in browser random color generator, this project is part of the Udemy course, I tried to do it without any instruction and found it fun to do and fairly simple, after creating the fucntion color generator I veiwed the source code of the Udemy instructor I found there were a few points at which I couldve written cleaner more effiecnt and less repeitive code. uploaded file under /Random Color Generator
 
 
 
