@@ -232,6 +232,14 @@ Today I learned and practiced;
 
 Practiced the above, learning to put utilise the keyword 'this' within Events, challenging at times. 
 
+<b>Tuesday 21.12.21</b>
+Today I learned and practiced; 
+- Form Events 
+- The preventDefault function for one page form submition 
+
+Practiced grabbing user input from froms and storing info within lists to be used later. Pretty simple as long as the proper order and scope is followed. 
+
+
 
 
 
