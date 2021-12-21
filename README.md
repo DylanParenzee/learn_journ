@@ -239,6 +239,16 @@ Today I learned and practiced;
 
 Practiced grabbing user input from froms and storing info within lists to be used later. Pretty simple as long as the proper order and scope is followed. 
 
+<b>Wednesday 22.12.21</b>
+Today I learned and practiced; 
+- Revison of past session
+- Input and Change events 
+- input events exercise 
+- Event bubbling 
+- Event Delegation 
+
+Practiced all the above and made sure to practice the past exercises for this module aswell, I have enjoyed the DOM events module and feel like I have a much better understanding of how user input is intergrated into modern websites. Need to keep practicing to make sure I am comfortable with it all.
+
 
 
 
