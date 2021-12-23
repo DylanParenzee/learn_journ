@@ -249,6 +249,10 @@ Today I learned and practiced;
 
 Practiced all the above and made sure to practice the past exercises for this module aswell, I have enjoyed the DOM events module and feel like I have a much better understanding of how user input is intergrated into modern websites. Need to keep practicing to make sure I am comfortable with it all.
 
+<b>Thursday 23.12.21</b>
+
+Today I started working on a scorekeeper app desginated by the Udemy course, trying to make it thorugh without any help initally to see what areas I need to improve on. Tommorow I will start delegating time towards both the project and pushing on with course work.
+
 
 
 
