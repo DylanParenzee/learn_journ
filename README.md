@@ -253,6 +253,17 @@ Practiced all the above and made sure to practice the past exercises for this mo
 
 Today I started working on a scorekeeper app desginated by the Udemy course, trying to make it thorugh without any help initally to see what areas I need to improve on. Tommorow I will start delegating time towards both the project and pushing on with course work.
 
+<b>Friday 24.12.21</b>
+Today I learned and practiced; 
+- The concept of Async Javascript 
+- The call stack 
+- WebAPI's and the concept of single threading 
+- Call back practice. 
+
+Lots to take in today, Seems this module is going to be fairly dense. Understanding the call stack seems fairly simple but its easy to see how callbacks with mulitple functions nested, each with multiple arguments, which could contain a fucntion, which in turn leads to more nested functions.... could be tricky. Going to try and take some extra time during this module to ensure better retention.
+
+
+
 
 
 
