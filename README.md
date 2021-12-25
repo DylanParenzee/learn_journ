@@ -262,6 +262,9 @@ Today I learned and practiced;
 
 Lots to take in today, Seems this module is going to be fairly dense. Understanding the call stack seems fairly simple but its easy to see how callbacks with mulitple functions nested, each with multiple arguments, which could contain a fucntion, which in turn leads to more nested functions.... could be tricky. Going to try and take some extra time during this module to ensure better retention.
 
+<b>Saturday 25.12.21</b>
+Today I listened to the codeNewbie Podcast <b>S11 Ep2</b> Angie Jones is interviewed about why all Developers should understand the basics of testing. Angie was a senior software engineer at Twitter and she speaks on the fact that she never really wanted to be in the testing department at twitter but after 3 months she never wanted to leave, A good testing procedure is critical for site and app efficency, the skills transfer to every area of coding, and if the developer has a understanding of what the testers do while testing code, it will lead to a much more fluid and effiecnt final product with minimal double handling.
+
 
 
 
