@@ -265,6 +265,17 @@ Lots to take in today, Seems this module is going to be fairly dense. Understand
 <b>Saturday 25.12.21</b>
 Today I listened to the codeNewbie Podcast <b>S11 Ep2</b> Angie Jones is interviewed about why all Developers should understand the basics of testing. Angie was a senior software engineer at Twitter and she speaks on the fact that she never really wanted to be in the testing department at twitter but after 3 months she never wanted to leave, A good testing procedure is critical for site and app efficency, the skills transfer to every area of coding, and if the developer has a understanding of what the testers do while testing code, it will lead to a much more fluid and effiecnt final product with minimal double handling.
 
+<b>Sunday 26.12.21</b>
+Today I learned and practiced; 
+- Nested callbacks
+- Nested callbacks within requests
+- The use of Promises While making requests 
+- .then and .catch methods 
+- resolved or rejected requests
+
+Slowly making it through the theory behind making requests to servers/API's and returning "resolved" or "rejected". This module has alot to take in and some of the syntax and procedures are a little hard to grasp the first time, but pushing forward and trying to get a basic understanding before my bootcamp starts next year. Asynchronous Javascript will be a subject I bring up with my teachers to help solidify the concept.
+
+
 
 
 
