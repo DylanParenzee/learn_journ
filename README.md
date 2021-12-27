@@ -275,6 +275,16 @@ Today I learned and practiced;
 
 Slowly making it through the theory behind making requests to servers/API's and returning "resolved" or "rejected". This module has alot to take in and some of the syntax and procedures are a little hard to grasp the first time, but pushing forward and trying to get a basic understanding before my bootcamp starts next year. Asynchronous Javascript will be a subject I bring up with my teachers to help solidify the concept.
 
+<b>Monday 27.12.21</b>
+Today I learned and practiced;
+- Creating promises 
+- The Async keyword 
+- The Await Keyword
+- Asynch Functions 
+- Handling errrors in async functions
+
+Alot to take in today, My final decision is to re-do the whole Asynch Javascript module, this has been a dense subject and it has not sunk in to the level I want it to. Struggling with certain aspects of it. Hopefully round two will be more fluid...
+
 
 
 
