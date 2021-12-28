@@ -293,7 +293,21 @@ Today I learned and practiced;
 - using POSTMAN to inspect using url's
 - Project work (movie seat booking project)
 
-Awesome introduction into a couple things I have heard mentioned alot but never really understood AJAX, (web)API's and JSON, with these subjects the "request and respose" aspects of the module start to make a little more sense. Lots to take in but really enjoying learning more about how everything starts to come together. 
+Awesome introduction into a couple things I have heard mentioned alot but never really understood AJAX, (web)API's and JSON, with these subjects the "request and respose" aspects of the module start to make a little more sense. Lots to take in but really enjoying learning more about how everything starts to come together.
+
+<Wednesday 29.12.21</b>
+Today I learned and practiced;
+- Using Query strings and Headers
+- Making XHR's
+- The Fetch API 
+- Intro into AXIOS
+- Finished movie seat booking project 
+
+Continued on with the module today, starting to understand a little better how browser requests are made utilising query strings based off the user search, how Requests can be made within our code utilizing API keys, how XHR's are outdated and the new applicable procedures are to utilzie fetch and AJAX when dealing with API's.
+
+
+
+
 
 
 
