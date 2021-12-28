@@ -285,7 +285,7 @@ Today I learned and practiced;
 
 Alot to take in today, My final decision is to re-do the whole Asynch Javascript module at a later date, this has been a dense subject and it has not sunk in to the level I want it to. Struggling with certain aspects of it. Hopefully round two will be more fluid...
 
-<Tuesday 28.12.21</b>
+<b>Tuesday 28.12.21</b>
 Today I learned and practiced;
 - Introduction to AJAX (AJAJ)
 - Introduction to API's 
@@ -295,7 +295,7 @@ Today I learned and practiced;
 
 Awesome introduction into a couple things I have heard mentioned alot but never really understood AJAX, (web)API's and JSON, with these subjects the "request and respose" aspects of the module start to make a little more sense. Lots to take in but really enjoying learning more about how everything starts to come together.
 
-<Wednesday 29.12.21</b>
+<b>Wednesday 29.12.21</b>
 Today I learned and practiced;
 - Using Query strings and Headers
 - Making XHR's
