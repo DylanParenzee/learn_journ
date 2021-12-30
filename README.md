@@ -305,6 +305,10 @@ Today I learned and practiced;
 
 Continued on with the module today, starting to understand a little better how browser requests are made utilising query strings based off the user search, how Requests can be made within our code utilizing API keys, how XHR's are outdated and the new applicable procedures are to utilzie fetch and AJAX when dealing with API's.
 
+<b>Thursday 30.12.21</b>
+
+Working on the revision of the Asycnc Javascript module today, as decided earlier, I will be going through everything revolving around asynchronous javascript for the next couple of sessions before moving on to the next sections.
+
 
 
 
