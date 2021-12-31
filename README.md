@@ -311,7 +311,7 @@ Working on the revision of the Asycnc Javascript module today, as decided earlie
 
 <b>Friday 31.12.21</b>
 
-Continued on with through revision of creating promises and also utilizing the return of promises, working on getting a through foundational understanding of how promises work on both the declaration and return sides, for today I utilized the .then and the .catch fucntions, during the next session I will be focusing on utilizing the asynch and await keywords. The second time through this module has certainly made more sense I think it has been extremly important for me to slow down and realise some concepts are just a little more time consuming to grasp.
+Continued on with thorough revision of creating promises and also utilizing the return of promises, working on getting a thorough foundational understanding of how promises work on both the declaration and return sides, for today I utilized the .then and the .catch functions, during the next session I will be focusing on utilizing the asynch and await keywords. The second time through this module has certainly made more sense I think it has been extremly important for me to slow down and realise some concepts are just a little more time consuming to grasp.
 
 
 
