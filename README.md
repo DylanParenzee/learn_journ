@@ -309,6 +309,10 @@ Continued on with the module today, starting to understand a little better how b
 
 Working on the revision of the Asycnc Javascript module today, as decided earlier, I will be going through everything revolving around asynchronous javascript for the next couple of sessions before moving on to the next sections.
 
+<b>Friday 31.12.21</b>
+
+Continued on with through revision of creating promises and also utilizing the return of promises, working on getting a through foundational understanding of how promises work on both the declaration and return sides, for today I utilized the .then and the .catch fucntions, during the next session I will be focusing on utilizing the asynch and await keywords. The second time through this module has certainly made more sense I think it has been extremly important for me to slow down and realise some concepts are just a little more time consuming to grasp.
+
 
 
 
