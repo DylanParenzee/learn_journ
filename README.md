@@ -311,7 +311,18 @@ Working on the revision of the Asycnc Javascript module today, as decided earlie
 
 <b>Friday 31.12.21</b>
 
-Continued on with thorough revision of creating promises and also utilizing the return of promises, working on getting a thorough foundational understanding of how promises work on both the declaration and return sides, for today I utilized the .then and the .catch functions, during the next session I will be focusing on utilizing the asynch and await keywords. The second time through this module has certainly made more sense I think it has been extremly important for me to slow down and realise some concepts are just a little more time consuming to grasp.
+Continued on with thorough revision of creating promises and also utilizing the return of promises, working on getting a thorough foundational understanding of how promises work on both the declaration and return sides, for today I utilized the .then and the .catch functions for returning, during the next session I will be focusing on utilizing the asynch and await keywords. The second time through this module has certainly made more sense I think it has been extremly important for me to slow down and realise some concepts are just a little more time consuming to grasp.
+
+<b>Saturday 1.01.22</b>
+Today I learned and practiced;
+- Async keyword 
+- Await keyword
+- Handling errors in Async functions
+
+Practiced using the Async/Await style of promise declaration and return, much easier to use, the only differences to the .then/.catch method seems to be when we are actually declaring a promise (the Async keyword itself returns a promise without any other declaration) AND the fact that we have to utilize try/catch when returning because the async/await method doesnt "catch" errors when returning.
+
+
+
 
 
 
