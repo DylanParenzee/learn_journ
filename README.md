@@ -321,6 +321,13 @@ Today I learned and practiced;
 
 Practiced using the Async/Await style of promise declaration and return, much easier to use, the only differences to the .then/.catch method seems to be when we are actually declaring a promise (the Async keyword itself returns a promise without any other declaration) AND the fact that we have to utilize try/catch when returning because the async/await method doesnt "catch" errors when returning.
 
+<b>Sunday 2.01.22</b>
+Today I learned and practiced;
+
+An introduction to react, moving on with a new course on udemy, Modern react. looking forward to it.
+
+
+
 
 
 
