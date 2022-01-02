@@ -326,7 +326,9 @@ Today I learned and practiced;
 
 An introduction to react, moving on with a new course on udemy, Modern react. looking forward to it.
 
+<b>Monday 3.1.22</b>
 
+Revison work practicing use of AJAX, parsing JSON, returning API data, POSTMAN and working with query strings and headers.
 
 
 
