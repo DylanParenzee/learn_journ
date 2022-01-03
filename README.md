@@ -326,9 +326,15 @@ Today I learned and practiced;
 
 An introduction to react, moving on with a new course on udemy, Modern react. looking forward to it.
 
-<b>Monday 3.1.22</b>
+<b>Monday 3.01.22</b>
 
 Revison work practicing use of AJAX, parsing JSON, returning API data, POSTMAN and working with query strings and headers.
+
+<Tuesday> 4.01.22</b>
+- re-Introduction to AXIOS
+- Setting headers with AXIOS 
+
+Lots of practice again today with making reqests and handling responses to those requests, Today I utilized the AXIOS library in my code as opposed to the native route using fetch. When using Axios to request data form a web API, our data is returned in JSON parsed, as opposed to using the fetch keyword which at times requires us to parse in order to utilize our data object. Made an app that returns the current price of bitcoin in AUD to practice getting data from an API.
 
 
 
