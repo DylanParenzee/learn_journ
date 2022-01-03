@@ -330,7 +330,7 @@ An introduction to react, moving on with a new course on udemy, Modern react. lo
 
 Revison work practicing use of AJAX, parsing JSON, returning API data, POSTMAN and working with query strings and headers.
 
-<Tuesday> 4.01.22</b>
+<b>Tuesday 4.01.22</b>
 - re-Introduction to AXIOS
 - Setting headers with AXIOS 
 
