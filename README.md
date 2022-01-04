@@ -336,6 +336,10 @@ Revison work practicing use of AJAX, parsing JSON, returning API data, POSTMAN a
 
 Lots of practice again today with making reqests and handling responses to those requests, Today I utilized the AXIOS library in my code as opposed to the native route using fetch. When using Axios to request data form a web API, our data is returned in JSON parsed, as opposed to using the fetch keyword which at times requires us to parse in order to utilize our data object. Made an app that returns the current price of bitcoin in AUD to practice getting data from an API.
 
+<b>Tuesday 05.01.22</b>
+
+Today I created a TV show search web app utilizing a free tv show search web API, the app displays the image of all tv shows searched for in the browser, just to practice returning data from API's, lots to take in but it was really fun practice, struggled with refreshing the page to clear all images ready for the new search, will have to continue with that and update.
+
 
 
 
