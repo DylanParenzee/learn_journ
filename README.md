@@ -340,6 +340,13 @@ Lots of practice again today with making reqests and handling responses to those
 
 Today I created a TV show search web app utilizing a free tv show search web API, the app displays the image of all tv shows searched for in the browser, just to practice returning data from API's, lots to take in but it was really fun practice, struggled with refreshing the page to clear all images ready for the new search, will have to continue with that and update.
 
+<b>Wednesday 06.01.22</b>
+- Introduction to React
+- Introduction to Components
+- Server set up
+
+Continuing on with the pre-bootcamp prep, Moving on to the world of React, inital thoughts are it seems like an awesome idea to combine HTML,CSS and JS in one file to utilize all of them. Will need to get used to creating components and being able to Re-Use components later on in the code. Looking foward to the next step.
+
 
 
 
