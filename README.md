@@ -348,7 +348,7 @@ Today I created a TV show search web app utilizing a free tv show search web API
 
 Continuing on with the pre-bootcamp prep, Moving on to the world of React, inital thoughts are it seems like an awesome idea to combine HTML,CSS and JS in one file to utilize all of them. Will need to get used to creating components and being able to Re-Use components later on in the code. Looking foward to the next step.
 
-<b>Friday 06.01.22</b>
+<b>Friday 07.01.22</b>
 - Basic rules of JSX 
 - How JSX works behind the scenes 
 - Embedding Javascript in JSX 
