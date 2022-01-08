@@ -357,6 +357,13 @@ Continuing on with the pre-bootcamp prep, Moving on to the world of React, inita
 
 Continued on with the react course, working today on learning JSX syntax and how to embed Javascript within JSX. Writing components using the class style as opposed to function, also practicing using a live server to test the application and learning how Babel works as a javascript compiler has also been cool to dive into.
 
+<b>Saturday 08.01.22</b>
+- Introduction to props
+- Prop immutablility
+- Other types of props
+
+Practicing with adding properties to return with the code, Props make our code more configurable and customizable, it also means we can re-use code by utilizing specific props.
+
 
 
 
