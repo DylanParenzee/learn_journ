@@ -364,6 +364,12 @@ Continued on with the react course, working today on learning JSX syntax and how
 
 Practicing with adding properties to return with the code, Props make our code more configurable and customizable, it also means we can re-use code by utilizing specific props. I have also started practicing specific javascript problems using Code Wars, just to keep some practice up.
 
+<b>Sunday 09.01.22</b>
+
+Today I practiced ustilizing props doing the multiple exercises on the Udemy Course, the goal for the last exercise was to create a logially functioning "slot machine" that would randomise and return wins or losses dependant on the same numbers, Becauase im so new to react this exercise took me a while but I got there in the end and feel a little more confident with utilizing properties in react. I also completed one kata exercise on Code wars. 
+
+
+
 
 
 
