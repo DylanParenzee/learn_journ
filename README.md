@@ -362,7 +362,7 @@ Continued on with the react course, working today on learning JSX syntax and how
 - Prop immutablility
 - Other types of props
 
-Practicing with adding properties to return with the code, Props make our code more configurable and customizable, it also means we can re-use code by utilizing specific props.
+Practicing with adding properties to return with the code, Props make our code more configurable and customizable, it also means we can re-use code by utilizing specific props. I have also started practicing specific javascript problems using Code Wars, just to keep some practice up.
 
 
 
