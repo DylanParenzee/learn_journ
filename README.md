@@ -368,6 +368,13 @@ Practicing with adding properties to return with the code, Props make our code m
 
 Today I practiced ustilizing props doing the multiple exercises on the Udemy Course, the goal for the last exercise was to create a logially functioning "slot machine" that would randomise and return wins or losses dependant on the same numbers, Becauase im so new to react this exercise took me a while but I got there in the end and feel a little more confident with utilizing properties in react. I also completed one kata exercise on Code wars. 
 
+<b>Monday 10.01.22</b>
+- Looping using JSX
+- Adding Default Props
+- Styling in React.
+
+These subjects are basically just revision from the JS course, learning the syntax, it all seems to be very intuitve.
+
 
 
 
