@@ -375,6 +375,15 @@ Today I practiced ustilizing props doing the multiple exercises on the Udemy Cou
 
 These subjects are basically just revision from the JS course, learning the syntax, it all seems to be very intuitve.
 
+<Tuesday 11.01.22</b>
+- Practice styling with react
+- Intro into create react app
+- Completed fakeBinary kata on Code wars 
+- listened to S18 Ep8 of codeNewbie podcast "How to use different memory techniques to learn coding" with Kylo Robinson
+- listened to S17 Ep5 of codeNewbie podcast "How to transition into development after over a decade in your field" with Christine Fletcher
+
+More of a variety for today in terms of coding exposure, worked late so I utilised the commute with a couple inspiring and helpful podcast episodes, then picked up where I left off with yesterdays session.
+
 
 
 
