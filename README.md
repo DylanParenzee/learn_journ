@@ -375,7 +375,7 @@ Today I practiced ustilizing props doing the multiple exercises on the Udemy Cou
 
 These subjects are basically just revision from the JS course, learning the syntax, it all seems to be very intuitve.
 
-<Tuesday 11.01.22</b>
+<b>Tuesday 11.01.22</b>
 - Practice styling with react
 - Intro into create react app
 - Completed fakeBinary kata on Code wars 
