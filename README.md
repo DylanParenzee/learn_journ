@@ -384,6 +384,17 @@ These subjects are basically just revision from the JS course, learning the synt
 
 More of a variety for today in terms of coding exposure, worked late so I utilised the commute with a couple inspiring and helpful podcast episodes,completed one kata exercise on code wars, then picked up where I left off with yesterdays session.
 
+<b>Wednesday 12.01.22</b>
+- Installing create react app 
+- working with the live server for create react app 
+- modules, import/exporting
+- import/export practice exercises 
+- code wars true/false return exercise 
+
+Finding it a little harder to wrap my head around creating,accessing create react apps through terminal and also import/export logic., need to practice further.
+
+
+
 
 
 
