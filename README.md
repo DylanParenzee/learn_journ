@@ -393,6 +393,10 @@ More of a variety for today in terms of coding exposure, worked late so I utilis
 
 Finding it a little harder to wrap my head around creating,accessing create react apps through terminal and also import/export logic., need to practice further.
 
+<b>Thursday 13.01.22</b>
+
+Today has been about revision revision revision, going to try and encorporate atleast 1 hour revision of various subjects previously learnt, finding things are much much easier to remember and retain after doing them for a second (sometimes third) time. Ive been happy with this approach today. Practiced command line basics (to utilze node.js and react) terminal always looks daunting til you have a go and start practicing, had fun today.
+
 
 
 
