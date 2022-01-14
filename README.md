@@ -397,6 +397,12 @@ Finding it a little harder to wrap my head around creating,accessing create reac
 
 Today has been about revision revision revision, going to try and encorporate atleast 1 hour revision of various subjects previously learnt, finding things are much much easier to remember and retain after doing them for a second (sometimes third) time. Ive been happy with this approach today. Practiced command line basics (to utilze node.js and react) terminal always looks daunting til you have a go and start practicing, had fun today.
 
+<b>Friday 14.01.22</b>
+
+Started a NEW react course today, was finding it the previous course not very well suited to my learning style, so using it as a good opportunity to go through the basic fundumentals I covered in the previous course.
+
+
+
 
 
 
