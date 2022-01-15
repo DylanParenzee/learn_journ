@@ -402,6 +402,11 @@ Today has been about revision revision revision, going to try and encorporate at
 Started a NEW react course today, was finding it the previous course not very well suited to my learning style, so using it as a good opportunity to go through the basic fundumentals I covered in the previous course.
 
 
+<b>Saturday 15.01.22</b>
+
+Had a 12 hour shift at work today and feeling super exhausted so the session has been shorter than usual (1hour), continued with the React module, completed one kata on Code wars and listened to theCodeNewbie podcast s16 ep2 "what is creative coding and generative art? with Varun Vachhar"
+
+
 
 
 
