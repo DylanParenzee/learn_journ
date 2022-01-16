@@ -406,6 +406,15 @@ Started a NEW react course today, was finding it the previous course not very we
 
 Had a 12 hour shift at work today and feeling super exhausted so the session has been shorter than usual (1hour), continued with the React module, completed one kata on Code wars and listened to theCodeNewbie podcast s16 ep2 "what is creative coding and generative art? with Varun Vachhar"
 
+<b>Sunday 16.01.22</b> 
+Today I learned and practiced; 
+- Components in detail 
+- JSX rules, what you can and cant do 
+- Nested componenets and tools 
+- Amazon booklist clone project 
+
+Really appreciating the change of course for this react seciton, the new course is much better suited to my learning style and I feel i have a better chance to retain the foundations of react. Practiced all the above today, really foucused on using nested componenets and seeing the benefit of being able to effect multiple child compoents by manipulating the parent.
+
 
 
 
