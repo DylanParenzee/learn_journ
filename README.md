@@ -415,7 +415,11 @@ Today I learned and practiced;
 
 Really appreciating the change of course for this react seciton, the new course is much better suited to my learning style and I feel i have a better chance to retain the foundations of react. Practiced all the above today, really foucused on using nested componenets and seeing the benefit of being able to effect multiple child compoents by manipulating the parent.
 
+<b>Monday 17.01.22</b> 
+- CSS inclusion with React
+- CSS inclusion using JSX 
 
+Today practice was all about the styling aspect, practiced including CSS and creating a resposive app size-wise. Fun to touch on CSS again.
 
 
 
