@@ -421,6 +421,12 @@ Really appreciating the change of course for this react seciton, the new course 
 
 Today practice was all about the styling aspect, practiced including CSS and creating a resposive app size-wise. Fun to touch on CSS again.
 
+<b>Tuesday 18.01.22</b> 
+
+Todays session was a contiuation of styling within react, and also moved on in part to best practices when included javascript in our JSX files. Moving on to more practice with props tomorrow.
+
+
+
 
 
 
