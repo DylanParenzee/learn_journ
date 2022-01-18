@@ -425,6 +425,10 @@ Today practice was all about the styling aspect, practiced including CSS and cre
 
 Todays session was a contiuation of styling within react, and also moved on in part to best practices when included javascript in our JSX files. Moving on to more practice with props tomorrow.
 
+<b>Wednesday 19.01.22</b> 
+
+Continued with revision of styling within react and the moved on to practice with props today, including declaration, best practices, destructuring and children properties, getting very comfortable with utilising objects. Awesome stuff, gotta try and get as much done as I can before the bookcmap starts in a couple weeks.
+
 
 
 
