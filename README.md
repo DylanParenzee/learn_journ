@@ -429,6 +429,10 @@ Todays session was a contiuation of styling within react, and also moved on in p
 
 Continued with revision of styling within react and the moved on to practice with props today, including declaration, best practices, destructuring and children properties, feeling very comfortable with object iteration. Awesome stuff, gotta try and get as much done as I can before the bookcmap starts in a couple weeks.
 
+<b>Thursday 20.01.22</b> 
+
+Having trouble acessing Udemy for some reason today, so today's No zero day effort has been towards the web dev power hour livestream of John Smilga (Udemy instructor) during the stream john talks about the do's and dont's of beginnner developer portfolios and how to showcase your efforts as a beginnner, I also completed x2 katas on codewars.
+
 
 
 
