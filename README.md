@@ -433,6 +433,19 @@ Continued with revision of styling within react and the moved on to practice wit
 
 Having trouble acessing Udemy for some reason today, so today's No zero day effort has been towards the web dev power hour livestream of John Smilga (Udemy instructor) during the stream john talks about the do's and dont's of beginnner developer portfolios and how to showcase your efforts as a beginnner, I also completed x2 katas on codewars.
 
+<b> Friday 21.01.22</b> 
+Today I learned and practiced; 
+- Prop destructuring 
+- Props - children 
+- List from props 
+- Iterating through nested arrays/objects to return data
+
+Practiced all the above today, React seems to have trouble accesing data -within an object-within an array, so foucused on practicing destructuring the object and using map to iterate through the array and return the object data via pre defined props, this keeps the code reusable and it doesnt matter how many new elements you add to the array, it will all render.. as long as the naming sequence is the same.
+
+
+
+
+
 
 
 
