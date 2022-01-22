@@ -442,6 +442,16 @@ Today I learned and practiced;
 
 Practiced all the above today, React seems to have trouble accesing data -within an object-within an array, so foucused on practicing destructuring the object and using map to iterate through the array and return the object data via pre defined props, this keeps the code reusable and it doesnt matter how many new elements you add to the array, it will all render.. as long as the naming sequence is the same.
 
+<b> Saturday 22.01.22</b>
+Today I learned and practiced; 
+- key and prop spread opereator 
+- event basics 
+- import and export statements 
+
+Very in depth today, I will be going over this session today in detail as it is alot to take in. 
+
+
+
 
 
 
