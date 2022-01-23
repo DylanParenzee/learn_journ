@@ -450,6 +450,10 @@ Today I learned and practiced;
 
 Very in depth today, I will be going over this session today in detail as it is alot to take in. 
 
+<b>Sunday 23.01.22 </b> 
+
+Today I unfortunatly failed my no zero day chanllenge, it was my daughters first birthday party. Although I thought about studying, I was just unable to find the time to have a meaningful study session. This has been my first zero day. I have put this up as a reminder, sometimes its just not possible to make everything fit and thats just the balance of life. Looking forward to continuing tommorow.
+
 
 
 
