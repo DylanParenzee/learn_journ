@@ -458,6 +458,20 @@ Today I unfortunatly failed my no zero day chanllenge, it was my daughters first
 
 Going over the Previous react sessions this week, starting from the top and working my way back down, hoping to get a more thorough base understanding.
 
+<b>Tuesday 25.01.22 </b>
+- re practice nesting components 
+- re CSS in react 
+- re CSS inline declartions in JSX 
+
+As stated, going over everything again to create a more thorough understanding of the basics, dont want to move forward with react until I know that I have a solid foundation. (forgot to commit last night) 
+
+<b> Wednesday 26.01.22 </b> 
+- re Utilising javascript in react 
+- re props declaration and usage 
+- re props Destructuring 
+
+It was a really good session today, everything really makes alot more sense the second time around, happy with progress so far.
+
 
 
 
