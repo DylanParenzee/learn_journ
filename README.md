@@ -472,6 +472,10 @@ As stated, going over everything again to create a more thorough understanding o
 
 It was a really good session today, everything really makes alot more sense the second time around, happy with progress so far.
 
+<b> Thursday 27.01.22 </b>
+
+Today's no zero day effort has been to listen to the codeNewbie podcast S18 E2 with Fernando Doglio he talks about the important skills he thinks a devloper should have to excel, things like repetitive study times, understanding parts of computer science, drawing inspiration from only consistent sources and more. It was an eye opening listen, definetly dont agree with everything he said, but very informative none the less.
+
 
 
 
