@@ -480,6 +480,9 @@ Today's no zero day effort has been to listen to the codeNewbie podcast S18 E2 w
 
 Todays's effort has been spent on completing inductions and downloading all required apps and extensions for my upcoming bootcamp, looking forward to it. Its gonna be alot of work but the reward is worth it! here it goes...
 
+<b> Saturday 29.01.22 </b>
+
+Continuation of module and induction completion for bootcamp.
 
 
 
