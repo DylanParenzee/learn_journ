@@ -484,6 +484,10 @@ Todays's effort has been spent on completing inductions and downloading all requ
 
 Continuation of module and induction completion for bootcamp.
 
+<b> Sunday 30.01.22 </b>
+
+Continuation of module and induction completion for bootcamp
+
 
 
 
