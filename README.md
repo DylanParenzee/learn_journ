@@ -496,6 +496,10 @@ Basic introduction to Ruby/rails, overview and understanding of reasoning behind
 
 Some big changes coming up, thinking about pulling out of the full stack development bootcamp I am currently enrolled in and opting for the front end engineering course instead, there are a multitude of reasons behind this but I suppose the main one would be wanting to dive deeper into one aspect of development (front-end)and getting good at it before moving on too abruptly with a limited knowledge, im no genius, I know there's alot more to learn and practice before I could ever claim to have a genuine understanding so it just wouldnt do my journey justice to move on now and try to learn something else. I think this is the right choice. Coming up...more practice, from the beginning.
 
+<b>Wednesday 02.02.22 </b> 
+
+Pulled out of the original bootcamp, moved to the front-end engineering one, as it only begins on April 26 I have plenty more time to practice so...Taking it all he way back to the beginning, starting from scratch to see how much ive retained and to brush up on all the other things I needed more practice on.
+
 
 
 
