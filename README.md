@@ -500,6 +500,10 @@ Some big changes coming up, thinking about pulling out of the full stack develop
 
 Pulled out of the original bootcamp, moved to the front-end engineering one, as it only begins on April 26 I have plenty more time to practice so...Taking it all he way back to the beginning, starting from scratch to see how much ive retained and to brush up on all the other things I needed more practice on.
 
+<b>Thursday 03.02.22 </b>
+
+Re-started HTML and CSS, taking a more distant, project based approach this time, learning through building at all steps. Basic HTML today, ive retained alot but there always seems to be something new to pick up now that I have a better base understanding. Makes a hell of a lot more sense, plenty more to go.
+
 
 
 
