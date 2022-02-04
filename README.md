@@ -508,6 +508,10 @@ Re-started HTML and CSS, taking a more distant, project based approach this time
 
 Continued on with basic HTML today, practiced meta and search tags, DOCTYPE and basic layout, headings,images and attributes. Fun going over it again, still learning new things regardless! 
 
+<b>Saturday 05.02.22</b> 
+
+Continued on again today, Practiced usages of lists Tables, forms and inputs 
+
 
 
 
