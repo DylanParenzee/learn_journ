@@ -504,6 +504,10 @@ Pulled out of the original bootcamp, moved to the front-end engineering one, as 
 
 Re-started HTML and CSS, taking a more distant, project based approach this time, learning through building at all steps. Basic HTML today, ive retained alot but there always seems to be something new to pick up now that I have a better base understanding. Makes a hell of a lot more sense, plenty more to go.
 
+<b>Friday 04.02.22</b>
+
+Continued on with basic HTML today, practiced meta and search tags, DOCTYPE and basic layout, headings,images and attributes. Fun going over it again, still learning new things regardless! 
+
 
 
 
