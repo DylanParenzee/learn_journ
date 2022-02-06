@@ -513,6 +513,11 @@ Continued on with basic HTML today, practiced meta and search tags, DOCTYPE and 
 Continued on again today, Practiced usages of lists Tables, forms and inputs 
 
 
+<b>Sunday 06.02.22</b>
+
+Block and inline elements, Divs, Spans, Classes, IDs.
+
+
 
 
 
