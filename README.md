@@ -517,7 +517,7 @@ Continued on again today, Practiced usages of lists Tables, forms and inputs
 
 Block and inline elements, Divs, Spans, Classes, IDs.
 
-<Monday 07.02.22</b> 
+<b>Monday 07.02.22</b> 
 
 I will no longer be comitting every day but will start to practice a regualar (not nessesarily daily) routine, No zero Days has been a fun experience but during this revision period there isnt much to report. I look forward to continuing to hone my skills, revise and continue practicing new concepts in preparation for my up coming bookcamp in april.
 
