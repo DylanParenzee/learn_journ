@@ -526,7 +526,9 @@ I will no longer be comitting to github everyday, I will still continue to work 
 
 It has been a good week of revison, practiced basic HTML from the start, practiced basci CSS from the start, CodeAcademy has come out with a new projects section, so slowly working my way through all of those applicable to myself then going to get stuck into creating some practice appllications using Vanilla JS. After all that I will continue diving deeper into react.js. Bootcamp starts on 26..04.22.
 
+<b>Wednesday 16.02.22</b>
 
+Dedicating this week to all things relating to callbacks, working with promises, creating promises, async/await, ajax, json and fetching api's. I think its all very important to know but hard to cement down...
 
 
 
