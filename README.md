@@ -528,7 +528,7 @@ It has been a good week of revison, practiced basic HTML from the start, practic
 
 <b>Wednesday 16.02.22</b>
 
-Dedicating this week to all things relating to callbacks, working with promises, creating promises, async/await, ajax, json and fetching api's. I think its all very important to know but hard to cement down...
+Dedicating this week to all things relating to callbacks, working with promises, creating promises, async/await, ajax, json and fetching api's. I think its all very important to know but hard to cement down....
 
 
 
