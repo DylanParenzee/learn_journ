@@ -534,6 +534,20 @@ Dedicating this week to all things relating to callbacks, working with promises,
 
 Going to try and start reviewing daily again, I have taken to codeAcademny to test my knowlede on on previously learned subjects while earning completion certificates. 
 
+<b>Wednesday 02.03.22</b> 
+Practice with React today;
+
+- nested JSX elements 
+- JSX syntax and javascript
+- Multiline JSX expressions
+- JSX syntax and HTML
+- JSX attributes
+- ReactDOM javascript library 
+- Embedding javascript in JSX 
+- The Virtual Dom
+
+
+
 
 
 
