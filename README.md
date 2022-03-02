@@ -546,8 +546,20 @@ Practice with React today;
 - Embedding javascript in JSX 
 - The Virtual Dom
 
+<b>Thursday 03.03.22</b>
 
-
+Practice with vanilla JS today; 
+- Higher order functions
+- Array methods; 
+.reduce()
+.filter()
+.some()
+.every()
+.map()
+.forEach()
+.findIndex()
+- Code Academy mini linter project 
+- Iteration exam 
 
 
 
