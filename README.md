@@ -561,6 +561,19 @@ Practice with vanilla JS today;
 - Code Academy mini linter project 
 - Iteration exam 
 
+<b>Friday 04.03.22</b>
+
+Practice with objects today; 
+- Restrictions in naming properties 
+- dot notation for accessing properties 
+- Acessing non-existenet Javascript properties 
+- mutability of JS objects 
+- for..in loops 
+- delete operator 
+- passing objects as arguments 
+- object methods 
+- Shorthand syntax for destructuring assignment 
+
 
 
 
