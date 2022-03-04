@@ -574,6 +574,12 @@ Practice with objects today;
 - object methods 
 - Shorthand syntax for destructuring assignment 
 
+Practice with React.js; 
+- JSX classNames 
+- JSX conditionals 
+- Ternary operators within React
+- Using event listerners in React
+
 
 
 
