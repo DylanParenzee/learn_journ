@@ -580,7 +580,17 @@ Practice with React.js;
 - Ternary operators within React
 - Using event listerners in React
 
+<b>Sunday 06.03.22</b>
 
+Practice with Javascript Objects; (code academy) 
+
+- shorthand property name syntax for object creation 
+- This keyword 
+- javascrtipt function, this 
+- arrow function with this keyword 
+- getters and setters, property access 
+- Javascript factory functions 
+- getters and setters restricted 
 
 
 
