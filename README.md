@@ -590,7 +590,17 @@ Practice with Javascript Objects; (code academy)
 - arrow function with this keyword 
 - getters and setters, property access 
 - Javascript factory functions 
-- getters and setters restricted 
+- getters and setters restricted
+
+<b>Monday 07.03.22</b>
+
+- Completed last module (advanced objects) on code academy 
+- Completed module projects (Team stats, Meal maker) 
+-  Completed object exam 
+-  Finised learn Javascript course on code academy 
+-  Moving on to intermediate Javascript course 
+
+
 
 
 
