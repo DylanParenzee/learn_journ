@@ -601,7 +601,9 @@ Practice with Javascript Objects; (code academy)
 -  Moving on to intermediate Javascript course 
 
 
+<b>Tuesday 08.03.22</b>
 
+2 hour practice on CODE WARS completing various kata's using Javascript. 
 
 
 
