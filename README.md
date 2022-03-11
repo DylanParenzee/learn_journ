@@ -606,6 +606,10 @@ Practice with Javascript Objects; (code academy)
 2 hour practice on CODE WARS completing various kata's using Javascript. 
 
 
+<b>Friday 11.03.22</b>
+
+Continuation of code academy ful lstack deveopment course
+
 
 
 
