@@ -610,6 +610,12 @@ Practice with Javascript Objects; (code academy)
 
 Continuation of code academy ful lstack deveopment course
 
+<b>Sunday 13.03.22</b>
+
+Continuation of code academy ful lstack deveopment course
+
+
+
 
 
 
