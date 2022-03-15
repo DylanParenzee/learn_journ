@@ -608,16 +608,16 @@ Practice with Javascript Objects; (code academy)
 
 <b>Friday 11.03.22</b>
 
-Continuation of code academy ful lstack deveopment course
+Continuation of code academy fullstack deveopment course
 
 <b>Sunday 13.03.22</b>
 
-Continuation of code academy ful lstack deveopment course
+Continuation of code academy fullstack deveopment course
 
 
+<b>Tuesday 15.03.22</b>
 
-
-
+Continuation of code academy fullstack deveopment course
 
 
 
