@@ -619,6 +619,9 @@ Continuation of code academy fullstack deveopment course
 
 Continuation of code academy fullstack deveopment course
 
+<b>Thursday 17.03.22</b>
+
+Continuation of code academy fullstack deveopment course
 
 
 
