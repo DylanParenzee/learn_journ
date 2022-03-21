@@ -623,6 +623,10 @@ Continuation of code academy fullstack deveopment course
 
 Continuation of code academy fullstack deveopment course
 
+<b>Monday 21.03.22</b>
+
+Continuation of code academy fullstack deveopment course
+
 
 
 
