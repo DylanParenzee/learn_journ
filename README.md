@@ -636,6 +636,10 @@ Continuation of code academy fullstack deveopment course
 Continuation of code academy fullstack deveopment course and personal project
 
 
+<b>Tuesday 05.04.22</b>
+
+Continuation of code academy fullstack deveopment course and personal project
+
 
 
 
