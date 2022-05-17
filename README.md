@@ -656,6 +656,10 @@ Continuation of code academy fullstack deveopment course and personal project
 
 Resuming where ive left off on the full stasck development bootcamp by colt steele, stepping into the backend side of things now. working with node.js and npm.
 
+<b>Tuesday 17.05.22</b>
+
+continuation of full stack dev bootcamp with colt steele, and front end dev lecture. 
+
 
 
 
