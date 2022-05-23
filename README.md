@@ -660,6 +660,11 @@ Resuming where ive left off on the full stasck development bootcamp by colt stee
 
 continuation of full stack dev bootcamp with colt steele, and front end dev lecture. 
 
+<b>Monday 23.05.22</b>
+Finsihed looping lab for bootcamp, commited to repo
+
+
+
 
 
 
