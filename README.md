@@ -663,7 +663,18 @@ continuation of full stack dev bootcamp with colt steele, and front end dev lect
 <b>Monday 23.05.22</b>
 Finsihed looping lab for bootcamp, commited to repo
 
+<b>Tuesday 24.05.22</b>
 
+Lecture for Academy Xi bootcamp, working with functions and loops currently - updated repo
+
+<b>Wednesday 25.05.22</b>
+
+Using Colt Steele's "The Modern Javascript Bootcamp Course 2022" on udemy as both a refresher and a way to dive deeper into javascript, tyring to work towards a more intermediate level... Trying to pair this course with my Academy XI bootcamp to get the most out of it... practice practice practice.
+Today; 
+ - Loops (for..in for...of for and while)
+ - arrays 
+ - objects 
+ - fuctions practice.
 
 
 
