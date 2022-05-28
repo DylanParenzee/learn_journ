@@ -677,7 +677,9 @@ Today;
  - fuctions practice.
 
 
+<b>Saturday 28.05.22</b>
 
+Practice with DOM manipulation today, just easy stuff, easing my way back into working with the DOM.
 
 
 
