@@ -682,6 +682,23 @@ Today;
 Practice with DOM manipulation today, just easy stuff, easing my way back into working with the DOM.
 
 
+<b>Monday 30.05.22</b>
+
+Contined with practice on DOM manipulations today; 
+- innerTesxt, innerContent
+- innerHTML
+- Getting and Setting attributes 
+- parent/child/sibling selection 
+- changing multiple elements
+- style alteration 
+- getComputedStyle method
+- class manipulation 
+- creating elements
+- append,prepend and insertBefore
+- remove and removeChild
+
+
+
 
 
 
