@@ -697,6 +697,9 @@ Contined with practice on DOM manipulations today;
 - append,prepend and insertBefore
 - remove and removeChild
 
+<b>Wednesday 02.06.22</b>
+
+Practice with event listeners today and inner workings of the event object as a whole. Been a while since ive practiced this, the bread and butter to JS responsivness with an app.
 
 
 
