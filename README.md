@@ -701,7 +701,9 @@ Contined with practice on DOM manipulations today;
 
 Practice with event listeners today and inner workings of the event object as a whole. Been a while since ive practiced this, the bread and butter to JS responsivness with an app.
 
+<b>Monday 06.06.22</b>
 
+Completed various labs as part of the bootcamp, functions review and scope.
 
 
 
