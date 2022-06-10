@@ -706,6 +706,11 @@ Practice with event listeners today and inner workings of the event object as a 
 Completed various labs as part of the bootcamp, functions review and scope.
 
 
+<b>Friday 10.06.22</b>
+
+Practice with creating and working with promises
+
+
 
 
 
