@@ -710,6 +710,18 @@ Completed various labs as part of the bootcamp, functions review and scope.
 
 Practice with creating and working with promises
 
+<b>Sunday 12.06.22</b>
+
+more more more practice with promises, trying to work towardsa deeper understanding of making HTTP requests as a whole, and managing the data recieved (or not recieved) in the most efficent way possible, practiced; 
+
+- Writing my own promises, 
+- returning promises from functions,
+- resolving/rejecting with values 
+- promise chaining
+- returing promises from within another promise to minimise nesting = only x1 .catch()
+
+
+
 
 
 
