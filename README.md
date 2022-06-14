@@ -721,6 +721,12 @@ more more more practice with promises, trying to work towardsa deeper understand
 - returing promises from within another promise to minimise nesting = only x1 .catch()
 
 
+<b>Tuesday 14.06.22</b>
+- using fetch() 
+- chaining fetch requests
+- refactoring past code using fetch
+- introduction to axios
+
 
 
 
