@@ -727,8 +727,10 @@ more more more practice with promises, trying to work towardsa deeper understand
 - refactoring past code using fetch
 - introduction to axios
 
+<b>Sunday 19.06.22</b>
 
 
+Practicing using fetch with an API key, working on a project for academy XI bootcamp 
 
 
 
