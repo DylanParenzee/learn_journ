@@ -733,7 +733,9 @@ more more more practice with promises, trying to work towardsa deeper understand
 Practicing using fetch with an API key, working on a project for academy XI bootcamp 
 
 
+<b> Friday  01.07.22 </b> 
 
+Finished with the vanilla Javascript section of the bootcamp, moving on to react, pairing that with colt steele's react course on udemy, started configuring today and basic reading, pushing forward with React tomorrow.
 
 
 
