@@ -737,6 +737,9 @@ Practicing using fetch with an API key, working on a project for academy XI boot
 
 Finished with the vanilla Javascript section of the bootcamp, moving on to react, pairing that with colt steele's react course on udemy, started configuring today and basic reading, pushing forward with React tomorrow.
 
+<b> Saturday  02.07.22 </b> 
+
+created first component with react, linking scripts using CDN link for now, declaring all components via class not function style for the time being just to get used to the syntax.
 
 
 
