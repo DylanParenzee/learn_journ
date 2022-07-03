@@ -743,7 +743,9 @@ created first component with react, linking scripts using CDN link for now, decl
 
 
 
+<b> Sunday  03.07.22 </b> 
 
+Continued on with the react course, while doing work on the bootcamp theory also, downloaded and had a small play around with. Figma to use as a desgin tool, feel like a profesional web developer isnt going to desgin a meaniful and creative app/site on the fly so thought it would be good -- now to learn how to use --- thinking about trying to do some freelance projects .... see where it goes.
 
 
 
