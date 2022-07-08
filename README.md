@@ -749,13 +749,15 @@ Continued on with the react course, while doing work on the bootcamp theory also
 
 
 <b> Monday 04.07.22 </b> 
-- basic rukles of JSX 
+- basic rules of JSX 
 - Babel 
 - Embedding javascript inside JSX 
 - conditionals inside JSX 
 
 
-
+<b> Friday 08.07.22 </b> 
+ - completed all outstanding react pactice labs for the week
+ - starting to think about the react project I will need present in 4 weeks..... hmm? 
 
 
 
