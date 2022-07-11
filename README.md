@@ -760,7 +760,10 @@ Continued on with the react course, while doing work on the bootcamp theory also
  - starting to think about the react project I will need present in 4 weeks..... hmm? 
 
 
+<b> Monday 11.07.22 </b> 
 
+- COntinuation of Udemey React Course
+- Sandboxed some Rect proejct ideas
 
 
 
