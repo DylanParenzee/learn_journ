@@ -766,7 +766,9 @@ Continued on with the react course, while doing work on the bootcamp theory also
 - Sandboxed some Rect proejct ideas
 
 
+<b> Wednesday 13.07.22 </b> 
 
+- Taking a break from coding today... burnt out.
 
 
 
