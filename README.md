@@ -770,6 +770,9 @@ Continued on with the react course, while doing work on the bootcamp theory also
 
 - Taking a break from coding today... burnt out.
 
+<b> Thursday 21.07.22 </b> 
+React projects course and Academy XI bootcamp tonight 
+
 
 
 
