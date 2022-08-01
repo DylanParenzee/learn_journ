@@ -774,6 +774,9 @@ Continued on with the react course, while doing work on the bootcamp theory also
 React projects course and Academy XI bootcamp tonight 
 
 
+<b> Monday 01.08.22 </b> 
+Practice with useEffect Hook basics
+
 
 
 
