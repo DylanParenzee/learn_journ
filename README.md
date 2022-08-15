@@ -777,6 +777,11 @@ React projects course and Academy XI bootcamp tonight
 <b> Monday 01.08.22 </b> 
 Practice with useEffect Hook basics
 
+<b> Monday 14.08.22 </b> 
+practice with conditional rendering in react, as well as multiple returns
+
+
+
 
 
 
