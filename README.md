@@ -780,6 +780,11 @@ Practice with useEffect Hook basics
 <b> Monday 14.08.22 </b> 
 practice with conditional rendering in react, as well as multiple returns
 
+<b> Tuesday 15.08.22 </b> 
+- refresher on ternary operators and short circuit evaluation, implementing into a react environment
+
+graduation for academy XI bootcamp tonight... went quick.
+
 
 
 
