@@ -786,7 +786,8 @@ practice with conditional rendering in react, as well as multiple returns
 graduation for academy XI bootcamp tonight... went quick.
 
 
-
+<b> Wednesday 24.08.22 </b> 
+Continuing on with John Smilga's React course on udemny, practiced toggling visibility using short circuit evaluation, really starting to enjoy react and much more comfortable with it after the bootcamp.
 
 
 
