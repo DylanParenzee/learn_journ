@@ -792,6 +792,9 @@ Continuing on with John Smilga's React course on udemny, practiced toggling visi
 <b> Monday 29.08.22 </b> 
 Continuing on with John Smilga's React course on udemny, practiced forms and form inputs, controlled inputs and working with multiple inputs
 
+<b> Tuesday 30.08.22 </b> 
+
+contination of John Smilga's course 
 
 
 
