@@ -796,5 +796,10 @@ Continuing on with John Smilga's React course on udemny, practiced forms and for
 
 contination of John Smilga's course 
 
+<b> Friday 02.09.22 </b> 
+
+contination of John Smilga's course 
+
+
 
 
