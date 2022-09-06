@@ -804,6 +804,11 @@ contination of John Smilga's course
 
 contination of John Smilga's course 
 
+<b> Tueday 06.09.22 </b> 
+
+- contination of John Smilga's course on udemy, 
+- Completed introduction to cybersecurity on codecademy
+
 
 
 
