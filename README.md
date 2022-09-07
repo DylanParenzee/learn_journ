@@ -810,6 +810,10 @@ contination of John Smilga's course
 - Completed introduction to cybersecurity on codecademy
 
 
+<b> Thursday 08.09.22 </b> 
+
+- contination of John Smilga's react projects course on udemy, 
+- enrolled into mongoDB introductory course on codecademy. - 2 hours in.
 
 
 
