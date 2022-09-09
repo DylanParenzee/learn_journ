@@ -815,5 +815,8 @@ contination of John Smilga's course
 - contination of John Smilga's react projects course on udemy, 
 - enrolled into mongoDB introductory course on codecademy. - 2 hours in.
 
+<b> Friday 09.09.22 </b> 
+- continuation of mongoDB introductory course on codecademy
+- continuation of NodeJS tutorial and projects course
 
 
