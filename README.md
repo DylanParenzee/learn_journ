@@ -819,4 +819,8 @@ contination of John Smilga's course
 - continuation of mongoDB introductory course on codecademy
 - continuation of NodeJS tutorial and projects course
 
+<b> Monday 26.09.22 </b> 
+
+Continuation of Node.js course with John Smilga. 
+
 
