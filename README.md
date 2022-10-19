@@ -823,4 +823,8 @@ contination of John Smilga's course
 
 Continuation of Node.js course with John Smilga. 
 
+<b> Wednesday 19.10.22 </b> 
+
+- Signed up to TryHackMe and completed first intro rooms
+
 
