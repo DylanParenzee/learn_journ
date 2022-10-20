@@ -829,4 +829,4 @@ Continuation of Node.js course with John Smilga.
 
 <b> Thursday 20.10.22 </b> 
 
-- started network fundamentals section of the pre-security pathway, completed the "what is networking" module and halfway through the "intro to LAN" module. finding this extemely eye opening and throughly enjoying the information.
+- started network fundamentals section of the pre-security pathway, completed the "what is networking" module and halfway through the "intro to LAN" module. finding this extremely eye opening and throughly enjoying the information.
