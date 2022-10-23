@@ -833,5 +833,5 @@ Continuation of Node.js course with John Smilga.
 
 - completed "Intro to LAN" module passing all topics including, ARP protocol, subnetting, DHCP protocol, and LAN topologies.
 
-b> Monday 23.10.22 </b> 
+<b> Sunday 23.10.22 </b> 
 - 
