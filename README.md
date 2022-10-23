@@ -836,3 +836,5 @@ Continuation of Node.js course with John Smilga.
 <b> Sunday 23.10.22 </b> 
 - Overview of the OSI model for Networking, what it is and what it is used for. 
 - studied the first 3/7 layers of the OSI model.
+
+- studied the last 4 layers of the OSI model and completed all tests.
