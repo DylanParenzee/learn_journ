@@ -838,3 +838,12 @@ Continuation of Node.js course with John Smilga.
 - studied the first 3/7 layers of the OSI model.
 
 - studied the last 4 layers of the OSI model and completed all tests.
+
+<b> Tuesday 25.10.22 </b> 
+- completed the "Packets and Frames" module and all assoiated lessons encluding; 
+- what are packets and frames
+- TCP/IP 
+- UDP/IP 
+- PORTS 101
+
+
