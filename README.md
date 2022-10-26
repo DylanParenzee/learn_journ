@@ -843,4 +843,10 @@ Continuation of Node.js course with John Smilga.
 - UDP/IP 
 - PORTS 101
 
+<b> Wednesday 25.10.22 </b> 
+- completed the "Extending your network module"
+- Introduction to port forwarding
+- Firrewalls 101 
+- VPN basics 
+- Lan networking devices.
 
