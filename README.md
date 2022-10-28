@@ -850,3 +850,7 @@ Continuation of Node.js course with John Smilga.
 - VPN basics 
 - Lan networking devices.
 
+
+<b> Friday 28.10.22 </b> 
+ Completed both the DNS in detail and HTTP in detail modules. really eye opening
+
