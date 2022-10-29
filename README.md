@@ -854,3 +854,6 @@ Continuation of Node.js course with John Smilga.
 <b> Friday 28.10.22 </b> 
  Completed both the DNS in detail and HTTP in detail modules. really eye opening
 
+<b> Saturday 29.10.22 </b> 
+
+- practice with proxy interception techniques and http request manipulation using burpsuite.
