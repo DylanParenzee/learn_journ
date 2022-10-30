@@ -857,3 +857,7 @@ Continuation of Node.js course with John Smilga.
 <b> Saturday 29.10.22 </b> 
 
 - practice with proxy interception techniques and http request manipulation using burpsuite.
+
+<b> Sunday 30.10.22 </b> 
+- Practice SQL injection techniques on port swigger using burpsuite
+
