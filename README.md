@@ -861,3 +861,5 @@ Continuation of Node.js course with John Smilga.
 <b> Sunday 30.10.22 </b> 
 - Practice SQL injection techniques on port swigger using burpsuite
 
+<b> Monday 31.10.22 </b> 
+- Completed the username/password enumeration brute force hack on port swigger
