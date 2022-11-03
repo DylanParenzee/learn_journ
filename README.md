@@ -865,3 +865,6 @@ Continuation of Node.js course with John Smilga.
 - Completed the username/password enumeration brute force hack on port swigger
 - Completed the Web Application Security Module on tryHackMe
 - Completed the OS security Module 
+
+<b> Thursday 03.10.22 </b> 
+- started the introduction to web application hacking module.
