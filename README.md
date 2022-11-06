@@ -868,3 +868,7 @@ Continuation of Node.js course with John Smilga.
 
 <b> Thursday 03.10.22 </b> 
 - started the introduction to web application hacking module.
+
+<b> Sunday 06.10.22 </b> 
+
+- continuation of the web application security module
