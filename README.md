@@ -873,7 +873,13 @@ Continuation of Node.js course with John Smilga.
 
 - continuation of the web application security module
 
-<b> Thursday 09.10.22 </b>
+<b> Wednesday 09.10.22 </b>
 
 Completed the web application hacking tutorial, moving on to the "junior security analyst intro"
+
+
+<b> Thursday 10.10.22 </b>
+
+- Completed parts of the "pyramid of pain" module, touching on hash values and how to utilise open source lookups for any malicious activity, IP address verification, and Domain name filtering. 
+
 
