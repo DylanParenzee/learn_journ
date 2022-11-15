@@ -883,3 +883,7 @@ Completed the web application hacking tutorial, moving on to the "junior securit
 - Completed parts of the "pyramid of pain" module, touching on hash values and how to utilise open source lookups for any malicious activity, IP address verification, and Domain name filtering. 
 
 
+Tuesday 15.11.22
+
+Completed more parts of the pyramid of pain module -- Domain Names, Host artifiacts, Network artifacts. 
+
