@@ -887,3 +887,7 @@ Tuesday 15.11.22
 
 Completed more parts of the pyramid of pain module -- Domain Names, Host artifiacts, Network artifacts. 
 
+Monday 21.11.22
+
+continuation of network+ course study and practice with react for personal project.
+
