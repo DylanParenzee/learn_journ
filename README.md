@@ -891,3 +891,7 @@ Monday 21.11.22
 
 continuation of network+ course study and practice with react for personal project.
 
+Wednesday 23.11.22
+
+continuation of network+ course study and practice with react for personal project.
+
