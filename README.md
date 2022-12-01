@@ -895,3 +895,5 @@ Wednesday 23.11.22
 
 continuation of network+ course study and practice with react for personal project.
 
+Thursday 01. 12 . 22 
+Covered use Ref hook in depth 
