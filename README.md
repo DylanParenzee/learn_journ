@@ -901,3 +901,7 @@ Covered use Ref hook in depth
 Tueday 13. 12 . 22 
 
 research on best courses to learn and practice typescript
+
+
+Wednesday 14. 12 . 22 
+- practice and overview with useReducer hook
