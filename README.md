@@ -897,3 +897,7 @@ continuation of network+ course study and practice with react for personal proje
 
 Thursday 01. 12 . 22 
 Covered use Ref hook in depth 
+
+Tueday 13. 12 . 22 
+
+research on best courses to learn and practice typescript
