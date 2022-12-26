@@ -27,7 +27,7 @@ These concepts were not very hard to learn and apply, I did have trouble with th
 Today I learned and practiced;
 - The basic concept of objects and object creation
 - acccessing data from objects
-- modifying objects 
+- modifying objectS 
 - nesting objects
 - pairing objects and arrays and how powerful they can be together.
 
