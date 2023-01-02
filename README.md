@@ -2,7 +2,7 @@
 
 
 
-<b>Friday 26.11.21:</b> 
+<b>Friday 26.11 .21:</b> 
 
 Today I learned and practiced;
 - Running Javascript in the browser
