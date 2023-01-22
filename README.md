@@ -905,3 +905,7 @@ research on best courses to learn and practice typescript
 
 Wednesday 14. 12 . 22 
 - practice and overview with useReducer hook
+
+Sunday 22. 01 . 23
+
+Practice with professer messer's A+ and Network+ study courses
