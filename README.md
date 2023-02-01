@@ -909,3 +909,7 @@ Wednesday 14. 12 . 22
 Sunday 22. 01 . 23
 
 Practice with professer messer's A+ and Network+ study courses
+
+Tuesday 01. 02 . 23
+
+Practice with professer messer's A+ and Network+ study courses
