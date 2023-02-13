@@ -913,3 +913,8 @@ Practice with professer messer's A+ and Network+ study courses
 Tuesday 01. 02 . 23
 
 Practice with professer messer's A+ and Network+ study courses
+
+Tuesday 13. 02 . 23
+
+
+Offically signed up to do start a Diploma of IT (advanced networking and cyber security ) 
