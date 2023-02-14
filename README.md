@@ -918,3 +918,15 @@ Tuesday 13. 02 . 23
 
 
 Offically signed up to do start a Diploma of IT (advanced networking and cyber security ) 
+
+Wenesday 14. 02 . 23
+
+Using "a cloud guru" to study for the certifed cloud practioner certificate from AWS 
+working towards an understanding of 
+- What is cloud computing
+- EC2 instances and Lambda functions 
+- Advantages of cloud computing 
+- Capex and opex 
+
+
+
