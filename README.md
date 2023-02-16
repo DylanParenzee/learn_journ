@@ -919,7 +919,7 @@ Tuesday 13. 02 . 23
 
 Offically signed up to do start a Diploma of IT (advanced networking and cyber security ) 
 
-Wenesday 14. 02 . 23
+Wenesday 15. 02 . 23
 
 Using "a cloud guru" to study for the certifed cloud practioner certificate from AWS 
 working towards an understanding of 
@@ -928,5 +928,9 @@ working towards an understanding of
 - Advantages of cloud computing 
 - Capex and opex 
 
-
+Thursday 16.02.23 
+- started colt steele's python course
+- completed CLI introduction and refresher 
+- downloaded python and practiced.
+- will be pushing on with learining python as it is a better fit for where I would like to be in the Devops/Security space 
 
