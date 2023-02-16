@@ -933,4 +933,5 @@ Thursday 16.02.23
 - completed CLI introduction and refresher 
 - downloaded python and practiced.
 - will be pushing on with learining python as it is a better fit for where I would like to be in the Devops/Security space 
+- also continued on in Cloud computing studies - Cloud computing models and Cloud deployment models 
 
