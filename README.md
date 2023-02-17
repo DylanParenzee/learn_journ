@@ -935,3 +935,6 @@ Thursday 16.02.23
 - will be pushing on with learining python as it is a better fit for where I would like to be in the Devops/Security space 
 - also continued on in Cloud computing studies - Cloud computing models and Cloud deployment models 
 
+Friday 17.02.23 
+- refresher on ints and floats in python3 
+
