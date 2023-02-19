@@ -941,6 +941,6 @@ Friday 17.02.23
 Sunday 19.02.23 
 - Different number operators in py3 
 - remebering to use int and floats after not having to use it in javascript for so long lol
-- 
+- referencing the python3 docs
 
 
