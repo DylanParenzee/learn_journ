@@ -938,3 +938,9 @@ Thursday 16.02.23
 Friday 17.02.23 
 - refresher on ints and floats in python3 
 
+Sunday 19.02.23 
+- Different number operators in py3 
+- remebering to use int and floats after not having to use it in javascript for so long lol
+- 
+
+
