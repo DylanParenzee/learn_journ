@@ -943,4 +943,7 @@ Sunday 19.02.23
 - remebering to use int and floats after not having to use it in javascript for so long lol
 - referencing the python3 docs
 
-
+Tuesday 21.02.23 
+- AWS global infrastructure 
+- regions 
+- availability zones
