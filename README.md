@@ -947,3 +947,6 @@ Tuesday 21.02.23
 - AWS global infrastructure 
 - regions 
 - availability zones
+
+Monday 27.02.23 
+- started Diploma of IT today, super excited. 
