@@ -950,3 +950,7 @@ Tuesday 21.02.23
 
 Monday 27.02.23 
 - started Diploma of IT today, super excited. 
+
+
+Wednesday 01.03.23
+- working on Cybersecurity awareness assesment and completed an acceptable use policy template. will soon create a new repo for all cyber study material. 
