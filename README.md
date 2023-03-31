@@ -954,3 +954,8 @@ Monday 27.02.23
 
 Wednesday 01.03.23
 - working on Cybersecurity awareness assesment and completed an acceptable use policy template. will soon create a new repo for all cyber study material. 
+
+
+01.04.23
+
+Working on a deeper understanding of networking, as a prequel to devops while studying my dimploma. Currently studying david bombals network fundamentals course.
