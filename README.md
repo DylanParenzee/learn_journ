@@ -959,3 +959,10 @@ Wednesday 01.03.23
 01.04.23
 
 Working on a deeper understanding of networking, as a prequel to devops while studying my dimploma. Currently studying david bombals network fundamentals course.
+
+
+26.05.23
+Have been extremely lazy with my github commits lately -- diploma study has taken over (not much to commit to github except for readME updates) will try to update none the less from now on to keep better track of my progress. 
+
+
+
